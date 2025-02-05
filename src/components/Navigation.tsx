@@ -1,5 +1,4 @@
 import styled from '@emotion/styled'
-import { motion } from 'framer-motion'
 
 const Nav = styled.nav`
   position: fixed;
